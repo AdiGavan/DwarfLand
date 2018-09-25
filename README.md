@@ -1,4 +1,5 @@
 Nume: Gavan Adrian George
+
 Grupa: 314CA
 
 Informatii generale:
